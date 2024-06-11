@@ -12,7 +12,7 @@ Another option for installing Node is the **Node Version Manager** (**nvm**), wh
 
 ## Installation
 
-The code for the chat app can be found at the public [GitHub](https://github.com/) repo [https://github.com/owanhunte/nodejs-chat-app](https://github.com/owanhunte/nodejs-chat-app). Either clone the repo to a local folder on your machine or download and extract the archive.
+The code for the chat app can be found at the public [GitHub](https://github.com/) repo [https://github.com/owanhunte/nodejs-chat-app](https://github.com/yonas-fsaha/chat-app-with-nodejs). Either clone the repo to a local folder on your machine or download and extract the archive.
 
 Open a terminal window session, or the equivalent on your machine, and enter the following command to install all the Node modules needed to run the app:
 
