@@ -32,4 +32,4 @@ This will start the app and set it up to listen for incoming connections on port
 
 ## Customizing the listening port
 
-To configure the port that the app listens on at startup, copy the file
+To configure the port that the app 
